@@ -77,6 +77,6 @@ Without it, the smart rule-based analyzer runs automatically.
 
 ## Author
 
-**THAHASEEN** — BCA Final Year, Mohan Babu University  
+**THAHASEEN,DEEN** — BCA Final Year, Mohan Babu University  
 Internship: Doneswari Technologies LLP (AI & ML)  
 GitHub: github.com/thahaseen76-ms
